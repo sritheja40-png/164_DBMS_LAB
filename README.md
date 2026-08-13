@@ -978,7 +978,7 @@ These experiments provide practical exposure to fundamental SQL querying, relati
 
 # Author
 
-**Thamizh Selvan**
+**Theja Sri**
 
 DBMS Laboratory — MySQL
 
